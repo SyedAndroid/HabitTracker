@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="textsize_title">16sp</dimen>
+    <dimen name="date_text_size">12sp</dimen>
+    <dimen name="cardview_padding">8dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HabitTrackerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="habit_info">Enter your habit:</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="Repetition">Repetition:</string>
+    <string name="Status">Status:</string>
+
+    <string name="repe_daily">Daily</string>
+    <string name="repe_weekly">Weekly</string>
+    <string name="repe_monthly">Monthly</string>
+    <string name="repe_yearly">Yearly</string>
+
+    <string name="status_completed">Completed</string>
+    <string name="status_later">Not Yet</string>
+</resources>
